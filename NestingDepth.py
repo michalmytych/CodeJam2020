@@ -18,7 +18,7 @@ def NestingTesting(S):
     return Sp
 
 
-T = int(input()) # liczba przypadkow
+T = int(input())
 
 for t in range(int(T)):
     S = input()
